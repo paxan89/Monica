@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SetFieldsError1" xml:space="preserve">
+    <value>{"cardCode":"054-000-598",
+"cardType":"investprojectco",
+"fields":[
+{"fieldName":"StateId","value":"0. Выявление потребности (до А1)","valueId":830,"dataTypeCode":6}
+,
+{"fieldName":"Name","value":"89789","valueId":"89789","dataTypeCode":5}
+,
+{"fieldName":"ProjectCo1DepartmentId","value":"Проекты нового бизнеса","valueId":4,"dataTypeCode":6}
+,
+{"fieldName":"ProjectCo2DepartmentId","value":"СиТ","valueId":18,"dataTypeCode":6}
+,
+{"fieldName":"ProjectDepartmentCfo2Id","value":"REIN","valueId":309,"dataTypeCode":6}
+,
+{"fieldName":"ProjectDepartmentCfoId","value":"REIN","valueId":384,"dataTypeCode":6}
+,
+{"fieldName":"InvestProjectCOTypeId","value":"ИТ","valueId":1,"dataTypeCode":6}
+,
+{"fieldName":"ProjectTypeId","value":"Прочее","valueId":19,"dataTypeCode":6}
+,
+{"fieldName":"StateSecretProjectId","value":"Да","valueId":1,"dataTypeCode":6}
+,
+{"fieldName":"DegreeOfConfidentialityValueId","value":"Общий","valueId":3,"dataTypeCode":6}
+,
+{"fieldName":"AdditionalCode","value":"sdfsdsss","valueId":"sdfsdsss","dataTypeCode":1}
+,
+{"fieldName":"StartDate","value":"19.07.2017 00:00:00","valueId":"19.07.2017 00:00:00","dataTypeCode":8}
+,
+{"fieldName":"FinishDate","value":"19.07.2017 00:00:00","valueId":"19.07.2017 00:00:00","dataTypeCode":8}
+,
+{"fieldName":"ProjectRegionId","value":"Адыгея Республика","valueId":1,"dataTypeCode":6}
+,
+{"fieldName":"ProjectObjective","value":"123","valueId":"123","dataTypeCode":5}
+,
+{"fieldName":"Description","value":"ssdf","valueId":"ssdf","dataTypeCode":5}
+,
+{"fieldName":"Scenario","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"ProjectCostTypeId","value":"Доходный","valueId":1,"dataTypeCode":6}
+,
+{"fieldName":"ProjectSignTypeId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"KeyProjectCFO2Id","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"IsFinancedFromDivisionId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"IsFilledInAllFieldCardId","value":true,"valueId":true,"dataTypeCode":7}
+,
+{"fieldName":"IsInclBP","value":"Да","valueId":1,"dataTypeCode":6}
+,
+{"fieldName":"CommentRSPiB","value":null,"valueId":null,"dataTypeCode":1}
+,
+{"fieldName":"ExistenceStateObligationId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"ScopeTaskId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"NumberFunctionalCustomerId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"OrganizationalComplexityId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"InnovationId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"LevelExternalRiskId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"IsuppID","value":null,"valueId":null,"dataTypeCode":1}
+,
+{"fieldName":"ParentProgramId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"ProjectApprovedFullCost","value":31,"valueId":31,"dataTypeCode":3}
+,
+{"fieldName":"ProjectApprovedFullCostPlan","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"ProjectFullKirPrognoz","value":28,"valueId":28,"dataTypeCode":3}
+,
+{"fieldName":"ProjectFullKirPlan","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"NPVCurrentCostWthIncurred","value":10,"valueId":10,"dataTypeCode":3}
+,
+{"fieldName":"DiscountCurrentRate","value":18,"valueId":18,"dataTypeCode":3}
+,
+{"fieldName":"IRRCurentCostWithIncurred","value":11,"valueId":11,"dataTypeCode":3}
+,
+{"fieldName":"DPPCurrentCostWthIncurred","value":2,"valueId":2,"dataTypeCode":3}
+,
+{"fieldName":"DiscountApprovedRate","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"MinApprovalNPVCost","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"IRRApprovedCostWithIncurred","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"DPPOriginallyApproved","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"DiscountRateActual","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"NPVCurrentCostIncurred","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"IRRCurentCostIncurred","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"DPPCurentCostIncurred","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"DiscountRateAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"NPVCurrentCostWthIncurredAct","value":-24.21,"valueId":-24.21,"dataTypeCode":3}
+,
+{"fieldName":"IRRCurentCostWithIncurredAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"DPPCurrentCostWthIncurredAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"DiscountRateApprovedAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"NPVApprovedCostWithIncurredAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"IRRApprovedCostWithIncurredAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"DPPApprovedCostWithIncurredAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"YearReductionStream","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"DiscountRateAkcionerActual","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"NPVCurrentCostIncurredAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"IRRCurentCostIncurredAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"DPPCurentCostIncurredAct","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"NPVCurrentCostIncurredModeratelyPessimistic","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"NPVCurrentCostIncurredAverage","value":null,"valueId":null,"dataTypeCode":3}
+,
+{"fieldName":"DateCalcNPVforScenario","value":"24.11.2017 00:00:00","valueId":"24.11.2017 00:00:00","dataTypeCode":8}
+,
+{"fieldName":"ProjectRiskiness","value":25,"valueId":25,"dataTypeCode":3}
+,
+{"fieldName":"ResidualProjectRiskiness","value":3,"valueId":3,"dataTypeCode":3}
+,
+{"fieldName":"InvestProjectPortfolioId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"ProjectCardTypeId","value":"Проект","valueId":3,"dataTypeCode":6}
+,
+{"fieldName":"ProjectCardTypeName","value":"Проект","valueId":"Проект","dataTypeCode":1}
+,
+{"fieldName":"AnalystMarkId","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"AnalystMarkCO1Id","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"AnalystMarkCO2Id","value":null,"valueId":null,"dataTypeCode":6}
+,
+{"fieldName":"ProgramLifeStageId","value":null,"valueId":null,"dataTypeCode":6}
+]}</value>
+  </data>
+</root>

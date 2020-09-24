@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModulesDll>
+  <ModuleDll name="MonicaPlatform.AuthModule.dll" path="MonicaPlatform.AuthModule.dll"/>
+</ModulesDll>

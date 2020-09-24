@@ -1,0 +1,12 @@
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.Universal.dll.config
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.Universal.deps.json
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.Universal.runtimeconfig.json
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.Universal.runtimeconfig.dev.json
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.Universal.dll
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.Universal.pdb
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp2.2\Monica.Crm.Universal.csproj.CoreCompileInputs.cache
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp2.2\Monica.Crm.Universal.AssemblyInfoInputs.cache
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp2.2\Monica.Crm.Universal.AssemblyInfo.cs
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp2.2\Monica.Crm.Universal.dll
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp2.2\Monica.Crm.Universal.pdb
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.Universal.xml

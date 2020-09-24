@@ -1,0 +1,4 @@
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.csprojAssemblyReference.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.AssemblyInfoInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.AssemblyInfo.cs
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.csproj.CoreCompileInputs.cache

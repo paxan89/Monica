@@ -1,0 +1,13 @@
+F:\Monica\monica.administrator.module\MonicaAdministrator.WebApi\obj\Debug\netcoreapp2.2\MonicaAdministrator.WebApi.csprojAssemblyReference.cache
+F:\Monica\monica.administrator.module\MonicaAdministrator.WebApi\obj\Debug\netcoreapp2.2\MonicaAdministrator.WebApi.csproj.CoreCompileInputs.cache
+F:\Monica\monica.administrator.module\MonicaAdministrator.WebApi\obj\Debug\netcoreapp2.2\MonicaAdministrator.WebApi.AssemblyInfoInputs.cache
+F:\Monica\monica.administrator.module\MonicaAdministrator.WebApi\obj\Debug\netcoreapp2.2\MonicaAdministrator.WebApi.AssemblyInfo.cs
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\ConfigModuleDll.xml
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.WebApi.deps.json
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.WebApi.runtimeconfig.json
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.WebApi.runtimeconfig.dev.json
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.WebApi.dll
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.WebApi.pdb
+F:\Monica\monica.administrator.module\MonicaAdministrator.WebApi\obj\Debug\netcoreapp2.2\MonicaAdministrator.WebApi.csproj.CopyComplete
+F:\Monica\monica.administrator.module\MonicaAdministrator.WebApi\obj\Debug\netcoreapp2.2\MonicaAdministrator.WebApi.dll
+F:\Monica\monica.administrator.module\MonicaAdministrator.WebApi\obj\Debug\netcoreapp2.2\MonicaAdministrator.WebApi.pdb

@@ -1,0 +1,36 @@
+F:\Monica\monica.crm.api\bin\netcoreapp3.1\ConfigModuleDll.xml
+F:\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.dll.config
+F:\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.deps.json
+F:\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.dll
+F:\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.pdb
+F:\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.xml
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.csprojAssemblyReference.cache
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.AssemblyInfoInputs.cache
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.AssemblyInfo.cs
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.csproj.CoreCompileInputs.cache
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.dll
+F:\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\bin\netcoreapp3.1\ConfigModuleDll.xml
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.dll.config
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.deps.json
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.xml
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.AssemblyInfoInputs.cache
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.AssemblyInfo.cs
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.csprojAssemblyReference.cache
+E:\Work\Monica\monica.crm.api\bin\netcoreapp3.1\ConfigModuleDll.xml
+E:\Work\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.dll.config
+E:\Work\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.deps.json
+E:\Work\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.dll
+E:\Work\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.pdb
+E:\Work\Monica\monica.crm.api\bin\netcoreapp3.1\Monica.Crm.Universal.xml
+E:\Work\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.csprojAssemblyReference.cache
+E:\Work\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.AssemblyInfoInputs.cache
+E:\Work\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.AssemblyInfo.cs
+E:\Work\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.csproj.CoreCompileInputs.cache
+E:\Work\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.dll
+E:\Work\Monica\monica.crm.api\Monica.Crm.Universal\obj\Debug\netcoreapp3.1\Monica.Crm.Universal.pdb

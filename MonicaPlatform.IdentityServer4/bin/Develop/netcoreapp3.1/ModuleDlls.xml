@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModulesDll>
+  <ModuleDll name="IdentityModel.AspNetCore.OAuth2Introspection.dll" path="IdentityModel.AspNetCore.OAuth2Introspection.dll"/>
+  <ModuleDll name="IdentityModel.dll" path="IdentityModel.dll"/>
+  <ModuleDll name="IdentityServer4.AccessTokenValidation.dll" path="IdentityServer4.AccessTokenValidation.dll"/>
+  <ModuleDll name="MonicaPlatform.IdentityServer4.dll" path="MonicaPlatform.IdentityServer4.dll"/>
+</ModulesDll>

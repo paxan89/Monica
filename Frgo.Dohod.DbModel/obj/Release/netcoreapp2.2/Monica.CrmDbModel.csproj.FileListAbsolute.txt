@@ -1,0 +1,11 @@
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\bin\Release\netcoreapp2.2\Monica.CrmDbModel.deps.json
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\bin\Release\netcoreapp2.2\Monica.CrmDbModel.runtimeconfig.json
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\bin\Release\netcoreapp2.2\Monica.CrmDbModel.runtimeconfig.dev.json
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\bin\Release\netcoreapp2.2\Monica.CrmDbModel.dll
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\bin\Release\netcoreapp2.2\Monica.CrmDbModel.pdb
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\obj\Release\netcoreapp2.2\Monica.CrmDbModel.csprojAssemblyReference.cache
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\obj\Release\netcoreapp2.2\Monica.CrmDbModel.csproj.CoreCompileInputs.cache
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\obj\Release\netcoreapp2.2\Monica.CrmDbModel.AssemblyInfoInputs.cache
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\obj\Release\netcoreapp2.2\Monica.CrmDbModel.AssemblyInfo.cs
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\obj\Release\netcoreapp2.2\Monica.CrmDbModel.dll
+F:\Monica\monica.crmdbmodel\Monica.CrmDbModel\obj\Release\netcoreapp2.2\Monica.CrmDbModel.pdb

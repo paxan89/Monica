@@ -1,0 +1,13 @@
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp3.1\Frgo.Dohod.WebApi.csprojAssemblyReference.cache
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp3.1\Frgo.Dohod.WebApi.AssemblyInfoInputs.cache
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp3.1\Frgo.Dohod.WebApi.AssemblyInfo.cs
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp3.1\Frgo.Dohod.WebApi.csproj.CoreCompileInputs.cache
+F:\Rassvet\Frgo.Dohod.Api\bin\netcoreapp3.1\ConfigModuleDll.xml
+F:\Rassvet\Frgo.Dohod.Api\bin\netcoreapp3.1\Frgo.Dohod.WebApi.dll.config
+F:\Rassvet\Frgo.Dohod.Api\bin\netcoreapp3.1\Frgo.Dohod.WebApi.deps.json
+F:\Rassvet\Frgo.Dohod.Api\bin\netcoreapp3.1\Frgo.Dohod.WebApi.dll
+F:\Rassvet\Frgo.Dohod.Api\bin\netcoreapp3.1\Frgo.Dohod.WebApi.pdb
+F:\Rassvet\Frgo.Dohod.Api\bin\netcoreapp3.1\Monica.Crm.WebApi.xml
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp3.1\Frgo.Dohod.WebApi.csproj.CopyComplete
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp3.1\Frgo.Dohod.WebApi.dll
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp3.1\Frgo.Dohod.WebApi.pdb

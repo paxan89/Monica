@@ -1,0 +1,132 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+		<Platforms>AnyCPU;x64</Platforms>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<Configurations>Debug;Release;Develop</Configurations>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Develop|AnyCPU'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Develop|x64'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Autofac" Version="5.2.0" />
+		<PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+		<PackageReference Include="Dapper" Version="2.0.35" />
+		<PackageReference Include="IdentityModel" Version="4.3.1" />
+		<PackageReference Include="MailKit" Version="2.8.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.4" />
+		<PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.6" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.4" />
+		<PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.6" />
+		<PackageReference Include="Microsoft.OpenApi" Version="1.1.4" />
+		<PackageReference Include="Microsoft.VisualStudio.SlowCheetah" Version="3.2.26">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Monica.Core" Version="1.0.110" />
+		<PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+		<PackageReference Include="NLog" Version="4.7.2" />
+		<PackageReference Include="NLog.Schema" Version="4.7.2" />
+		<PackageReference Include="NLog.StructuredLogging.Json" Version="4.0.0" />
+		<PackageReference Include="NLog.Web.AspNetCore" Version="4.9.2" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.5.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<Content Remove="appsettings.Debug.json" />
+		<Content Remove="appsettings.Develop.json" />
+		<Content Remove="appsettings.Release.json" />
+		<Content Remove="NLog.config" />
+		<Content Remove="NLog.Debug.config" />
+		<Content Remove="NLog.Develop.config" />
+		<Content Remove="NLog.Release.config" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<None Include="appsettings.Debug.json">
+		  <IsTransformFile>true</IsTransformFile>
+		  <DependentUpon>appsettings.json</DependentUpon>
+		</None>
+		<None Include="appsettings.Develop.json">
+		  <IsTransformFile>true</IsTransformFile>
+		  <DependentUpon>appsettings.json</DependentUpon>
+		</None>
+		<None Include="appsettings.Release.json">
+		  <IsTransformFile>true</IsTransformFile>
+		  <DependentUpon>appsettings.json</DependentUpon>
+		</None>
+		<None Include="NLog.config">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<TransformOnBuild>true</TransformOnBuild>
+		</None>
+		<None Include="NLog.Develop.config">
+			<IsTransformFile>true</IsTransformFile>
+			<DependentUpon>NLog.config</DependentUpon>
+		</None>
+		<None Include="NLog.Release.config">
+			<IsTransformFile>true</IsTransformFile>
+			<DependentUpon>NLog.config</DependentUpon>
+		</None>
+		<None Include="NLog.Debug.config">
+			<IsTransformFile>true</IsTransformFile>
+			<DependentUpon>NLog.config</DependentUpon>
+		</None>
+	</ItemGroup>
+
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Frgo.Dohod.DbModel\Frgo.Dohod.DbModel.csproj" />
+	  <ProjectReference Include="..\Frgo.Dohod.WebApi\Frgo.Dohod.WebApi.csproj" />
+	  <ProjectReference Include="..\Monica.Core.Abstraction\Monica.Core.Abstraction.csproj" />
+	  <ProjectReference Include="..\Monica.Core.Controllers\Monica.Core.Controllers.csproj" />
+	  <ProjectReference Include="..\Monica.Core.DbModel\Monica.Core.DbModel.csproj" />
+	  <ProjectReference Include="..\Monica.Core.ModelParametrs\Monica.Core.ModelParametrs.csproj" />
+	  <ProjectReference Include="..\Monica.Core.Service\Monica.Core.Service.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Update="appsettings.json">
+		  <TransformOnBuild>true</TransformOnBuild>
+		</Content>
+		<Content Update="Monica.Core.dll.config">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Controllers\" />
+	</ItemGroup>
+
+	<ProjectExtensions><VisualStudio><UserProperties properties_4launchsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+</Project>

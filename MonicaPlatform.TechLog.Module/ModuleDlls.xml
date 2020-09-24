@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModulesDll>
+  <ModuleDll name="MonicaPlatform.TechLog.Module.dll" path="MonicaPlatform.TechLog.Module.dll"/>
+  <ModuleDll name="log4net.dll" path="log4net.dll"/>
+</ModulesDll>

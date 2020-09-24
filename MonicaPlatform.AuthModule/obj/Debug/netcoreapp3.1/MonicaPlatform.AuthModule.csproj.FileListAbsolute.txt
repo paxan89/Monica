@@ -1,0 +1,29 @@
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\ModuleDlls.xml
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.deps.json
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.pdb
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.csprojAssemblyReference.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.AssemblyInfoInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.AssemblyInfo.cs
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.csproj.CoreCompileInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\ModuleDlls.xml
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.deps.json
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.AssemblyInfoInputs.cache
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.AssemblyInfo.cs
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.pdb
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\ModuleDlls.xml
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.deps.json
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\bin\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.pdb
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.csprojAssemblyReference.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.AssemblyInfoInputs.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.AssemblyInfo.cs
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.csproj.CoreCompileInputs.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.AuthModule\obj\Debug\netcoreapp3.1\MonicaPlatform.AuthModule.pdb

@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<Configurations>Debug;Release;Develop</Configurations>
+		<Platforms>AnyCPU;x64</Platforms>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	</PropertyGroup>
+
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Develop|AnyCPU'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Develop|x64'">
+		<OutputPath>..\bin\$(Configuration)\</OutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="Core\**" />
+	  <EmbeddedResource Remove="Core\**" />
+	  <None Remove="Core\**" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.2.0" />
+	  <FrameworkReference Include="Microsoft.AspNetCore.App" />
+	  <PackageReference Include="MailKit" Version="2.8.0" />
+    <PackageReference Include="Monica.Core" Version="1.0.110" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Monica.Core.Abstraction\Monica.Core.Abstraction.csproj" />
+    <ProjectReference Include="..\Monica.Core.DbModel\Monica.Core.DbModel.csproj" />
+    <ProjectReference Include="..\Monica.Core.ModelParametrs\Monica.Core.ModelParametrs.csproj" />
+    <ProjectReference Include="..\Monica.Core.Service\Monica.Core.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="ConfigModuleDll.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

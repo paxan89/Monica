@@ -1,0 +1,625 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Module.Testing.Nunit\\Module.Testing.Nunit.csproj": {}
+  },
+  "projects": {
+    "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Module.Testing.Nunit\\Module.Testing.Nunit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Module.Testing.Nunit\\Module.Testing.Nunit.csproj",
+        "projectName": "Module.Testing.Nunit",
+        "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Module.Testing.Nunit\\Module.Testing.Nunit.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Module.Testing.Nunit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://84.201.161.38:5079/nuget/Monica/": {},
+          "http://baget.zeus.pmpractice.ru/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.WebApi\\Monica.Crm.WebApi.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.WebApi\\Monica.Crm.WebApi.csproj"
+              },
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj"
+              },
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Registration.WebApi\\Monica.Registration.WebApi.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Registration.WebApi\\Monica.Registration.WebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "Microsoft.VisualStudio.SlowCheetah": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.26, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.102, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.UniversalAdapter\\Monica.Crm.UniversalAdapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.UniversalAdapter\\Monica.Crm.UniversalAdapter.csproj",
+        "projectName": "Monica.Crm.UniversalAdapter",
+        "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.UniversalAdapter\\Monica.Crm.UniversalAdapter.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.UniversalAdapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://84.201.161.38:5079/nuget/Monica/": {},
+          "http://baget.zeus.pmpractice.ru/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj"
+              },
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.MailKit\\Monica.MailKit.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.MailKit\\Monica.MailKit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.102, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\Monica.Crm.Universal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\Monica.Crm.Universal.csproj",
+        "projectName": "Monica.Crm.Universal",
+        "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\Monica.Crm.Universal.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://84.201.161.38:5079/nuget/Monica/": {},
+          "http://baget.zeus.pmpractice.ru/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.102, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.WebApi\\Monica.Crm.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.WebApi\\Monica.Crm.WebApi.csproj",
+        "projectName": "Monica.Crm.WebApi",
+        "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.WebApi\\Monica.Crm.WebApi.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://84.201.161.38:5079/nuget/Monica/": {},
+          "http://baget.zeus.pmpractice.ru/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\Monica.Crm.Universal.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\Monica.Crm.Universal.csproj"
+              },
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.102, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj",
+        "projectName": "Monica.CrmDbModel",
+        "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://84.201.161.38:5079/nuget/Monica/": {},
+          "http://baget.zeus.pmpractice.ru/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\Monica.Crm.Universal.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\Monica.Crm.Universal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "LinqKit.Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.102, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.69.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.MailKit\\Monica.MailKit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.MailKit\\Monica.MailKit.csproj",
+        "projectName": "Monica.MailKit",
+        "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.MailKit\\Monica.MailKit.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.MailKit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://84.201.161.38:5079/nuget/Monica/": {},
+          "http://baget.zeus.pmpractice.ru/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.102, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Registration.WebApi\\Monica.Registration.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Registration.WebApi\\Monica.Registration.WebApi.csproj",
+        "projectName": "Monica.Registration.WebApi",
+        "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Registration.WebApi\\Monica.Registration.WebApi.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Registration.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://84.201.161.38:5079/nuget/Monica/": {},
+          "http://baget.zeus.pmpractice.ru/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.UniversalAdapter\\Monica.Crm.UniversalAdapter.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.UniversalAdapter\\Monica.Crm.UniversalAdapter.csproj"
+              },
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\Monica.Crm.Universal.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.Crm.Universal\\Monica.Crm.Universal.csproj"
+              },
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.CrmDbModel\\Monica.CrmDbModel.csproj"
+              },
+              "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.MailKit\\Monica.MailKit.csproj": {
+                "projectPath": "E:\\Work\\Monica\\Monica.PlatformMain.Reader\\CRM\\Monica.MailKit\\Monica.MailKit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.102, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

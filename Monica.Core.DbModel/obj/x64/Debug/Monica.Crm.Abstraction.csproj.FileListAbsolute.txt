@@ -1,0 +1,8 @@
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\CRM\Monica.Crm.Abstraction\Monica.Crm.Abstraction.deps.json
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\CRM\Monica.Crm.Abstraction\Monica.Crm.Abstraction.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\CRM\Monica.Crm.Abstraction\Monica.Crm.Abstraction.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Crm.Abstraction.AssemblyInfoInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Crm.Abstraction.AssemblyInfo.cs
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Crm.Abstraction.csproj.CoreCompileInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Crm.Abstraction.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Crm.Abstraction.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gt6WxFbC16uH4pMEMh9w98AlHo++4PwoD8U3h6zr28JjRKCXaZi4DRioja1dW4l4qx+WmHU1I4PXfSdADuGdpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\MonicaPlatform.AuthModule\\MonicaPlatform.AuthModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12078\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\microsoft.visualstudio.slowcheetah\\3.2.26\\microsoft.visualstudio.slowcheetah.3.2.26.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\monica.core\\1.0.110\\monica.core.1.0.110.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\bin\Develop\netcoreapp3.1\ModuleDlls.xml
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\bin\Develop\netcoreapp3.1\MonicaPlatform.AuthModule.deps.json
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\bin\Develop\netcoreapp3.1\MonicaPlatform.AuthModule.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\obj\Develop\netcoreapp3.1\MonicaPlatform.AuthModule.AssemblyInfoInputs.cache
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\obj\Develop\netcoreapp3.1\MonicaPlatform.AuthModule.AssemblyInfo.cs

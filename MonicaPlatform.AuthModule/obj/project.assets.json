@@ -1,0 +1,214 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Autofac/5.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {}
+        }
+      },
+      "Microsoft.VisualStudio.SlowCheetah/3.2.26": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.SlowCheetah.targets": {}
+        }
+      },
+      "Monica.Core/1.0.110": {
+        "type": "package",
+        "dependencies": {
+          "Autofac": "5.2.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Monica.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Monica.Core.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autofac/5.2.0": {
+      "sha512": "V8dBH0dsv75uDzl7Sw+HkhKDPUw2eXnlMjcSVMH+tLo2s67MpTKGyDj1pDcpR+IF2u4YRs0s3/x7R88YJzIWvg==",
+      "type": "package",
+      "path": "autofac/5.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.5.2.0.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "Microsoft.VisualStudio.SlowCheetah/3.2.26": {
+      "sha512": "i0MLgZiD3jcEIVE0fnIvj7F5QectrwYxSCyIj2nBbbHdxL267UgHajmkOxY9V5UcO1F2gMBUB6gN/2cDRZytmA==",
+      "type": "package",
+      "path": "microsoft.visualstudio.slowcheetah/3.2.26",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Microsoft.VisualStudio.SlowCheetah.App.targets",
+        "build/Microsoft.VisualStudio.SlowCheetah.ClickOnce.targets",
+        "build/Microsoft.VisualStudio.SlowCheetah.SetupProject.targets",
+        "build/Microsoft.VisualStudio.SlowCheetah.Web.targets",
+        "build/Microsoft.VisualStudio.SlowCheetah.targets",
+        "microsoft.visualstudio.slowcheetah.3.2.26.nupkg.sha512",
+        "microsoft.visualstudio.slowcheetah.nuspec",
+        "readme.txt",
+        "tools/Microsoft.VisualStudio.Jdt.dll",
+        "tools/Microsoft.VisualStudio.SlowCheetah.dll",
+        "tools/Microsoft.VisualStudio.SlowCheetah.xml",
+        "tools/Microsoft.Web.XmlTransform.dll",
+        "tools/Newtonsoft.Json.dll"
+      ]
+    },
+    "Monica.Core/1.0.110": {
+      "sha512": "1gYSl4snh8MeJtmkSF87Ci895WGrzmY8e3cChq2tlW8OYN0be159F24L+MpsUYDLVQDrUcLUsvfu/jpd51h35g==",
+      "type": "package",
+      "path": "monica.core/1.0.110",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netcoreapp3.1/Monica.Core.dll",
+        "monica.core.1.0.110.nupkg.sha512",
+        "monica.core.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.VisualStudio.SlowCheetah >= 3.2.26",
+      "Monica.Core >= 1.0.110"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\12078\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\MonicaPlatform.AuthModule\\MonicaPlatform.AuthModule.csproj",
+      "projectName": "MonicaPlatform.AuthModule",
+      "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\MonicaPlatform.AuthModule\\MonicaPlatform.AuthModule.csproj",
+      "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\MonicaPlatform.AuthModule\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.VisualStudio.SlowCheetah": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.2.26, )"
+          },
+          "Monica.Core": {
+            "target": "Package",
+            "version": "[1.0.110, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

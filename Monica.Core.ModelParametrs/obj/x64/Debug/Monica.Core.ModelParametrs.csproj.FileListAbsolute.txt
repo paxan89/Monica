@@ -1,0 +1,10 @@
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.ModelParametrs\obj\x64\Debug\Monica.Core.ModelParametrs.AssemblyInfoInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.ModelParametrs\obj\x64\Debug\Monica.Core.ModelParametrs.AssemblyInfo.cs
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.ModelParametrs\obj\x64\Debug\Monica.Core.ModelParametrs.csproj.CoreCompileInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.ModelParametrs\obj\x64\Debug\Monica.Core.ModelParametrs.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.ModelParametrs\obj\x64\Debug\Monica.Core.ModelParametrs.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.ModelParametrs.deps.json
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.ModelParametrs.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.ModelParametrs.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.ModelParametrs\obj\x64\Debug\Monica.Core.ModelParametrs.csprojAssemblyReference.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.ModelParametrs\obj\x64\Debug\Monica.Core.ModelParametrs.csproj.CopyComplete

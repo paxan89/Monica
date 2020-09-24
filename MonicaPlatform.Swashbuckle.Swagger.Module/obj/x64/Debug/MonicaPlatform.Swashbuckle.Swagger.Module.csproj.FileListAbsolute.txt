@@ -1,0 +1,14 @@
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.Swashbuckle.Swagger.Module\ModuleDlls.xml
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.dll.config
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.deps.json
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.runtimeconfig.json
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.runtimeconfig.dev.json
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.pdb
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\x64\Debug\MonicaPlatform.Swashbuckle.Swagger.Module.csprojAssemblyReference.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\x64\Debug\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CoreCompileInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\x64\Debug\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfoInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\x64\Debug\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfo.cs
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\x64\Debug\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CopyComplete
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\x64\Debug\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\x64\Debug\MonicaPlatform.Swashbuckle.Swagger.Module.pdb

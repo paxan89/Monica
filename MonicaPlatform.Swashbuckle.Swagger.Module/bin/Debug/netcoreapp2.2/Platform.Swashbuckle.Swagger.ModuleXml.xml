@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<my:SwashbuckleSwagger xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2018-07-04T19:03:41" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="ru">
+	<my:SwaggerBasePath>/portal</my:SwaggerBasePath>
+	<my:SwaggerEndpoints>
+		<my:SwaggerEndpoint>
+			<my:SwaggerEndpointUrl>/portal/swagger/v1/swagger.json</my:SwaggerEndpointUrl>
+			<my:SwaggerEndpointName>portal</my:SwaggerEndpointName>
+		</my:SwaggerEndpoint>
+	</my:SwaggerEndpoints>
+</my:SwashbuckleSwagger>

@@ -1,0 +1,69 @@
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\ModuleDlls.xml
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.dll.config
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.deps.json
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.pdb
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Autofac.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Monica.Core.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Newtonsoft.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.csprojAssemblyReference.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfoInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfo.cs
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CoreCompileInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CopyComplete
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\ModuleDlls.xml
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.dll.config
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.deps.json
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Monica.Core.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.csprojAssemblyReference.cache
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfoInputs.cache
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfo.cs
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CopyComplete
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.pdb
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\ModuleDlls.xml
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.dll.config
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.deps.json
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.pdb
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Monica.Core.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Newtonsoft.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.csprojAssemblyReference.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfoInputs.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfo.cs
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CoreCompileInputs.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CopyComplete
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Debug\netcoreapp3.1\MonicaPlatform.Swashbuckle.Swagger.Module.pdb

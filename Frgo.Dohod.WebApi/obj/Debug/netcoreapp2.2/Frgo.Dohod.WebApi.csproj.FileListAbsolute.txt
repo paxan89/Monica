@@ -1,0 +1,4 @@
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp2.2\Frgo.Dohod.WebApi.csprojAssemblyReference.cache
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp2.2\Frgo.Dohod.WebApi.csproj.CoreCompileInputs.cache
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp2.2\Frgo.Dohod.WebApi.AssemblyInfoInputs.cache
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\Debug\netcoreapp2.2\Frgo.Dohod.WebApi.AssemblyInfo.cs

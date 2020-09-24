@@ -1,0 +1,17 @@
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.csprojAssemblyReference.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.AssemblyInfoInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.AssemblyInfo.cs
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.csproj.CopyComplete
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.Abstraction.deps.json
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.Abstraction.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.Abstraction.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Crm.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.csproj.CoreCompileInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.csprojAssemblyReference.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.AssemblyInfoInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.AssemblyInfo.cs
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.csproj.CopyComplete
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.Abstraction\obj\x64\Debug\Monica.Core.Abstraction.csproj.CoreCompileInputs.cache

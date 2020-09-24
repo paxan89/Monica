@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModulesDll>
+  <ModuleDll name="MonicaPlatform.Swashbuckle.Swagger.Module.dll" path="MonicaPlatform.Swashbuckle.Swagger.Module.dll"/>
+  <ModuleDll name="Swashbuckle.AspNetCore.dll" path="Swashbuckle.AspNetCore.dll"/>
+  <ModuleDll name="Swashbuckle.AspNetCore.Swagger.dll" path="Swashbuckle.AspNetCore.Swagger.dll"/>
+  <ModuleDll name="Swashbuckle.AspNetCore.SwaggerGen.dll" path="Swashbuckle.AspNetCore.SwaggerGen.dll"/>
+  <ModuleDll name="Swashbuckle.AspNetCore.SwaggerUI.dll" path="Swashbuckle.AspNetCore.SwaggerUI.dll"/>
+</ModulesDll>

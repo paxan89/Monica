@@ -1,0 +1,86 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+		<Platforms>AnyCPU;x64</Platforms>
+		<Configurations>Debug;Release;Develop</Configurations>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<OutputPath>..\bin\$(Configuration)\Platform\MonicaPlatform.Swashbuckle.Swagger.Module</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<OutputPath>..\bin\$(Configuration)\Platform\MonicaPlatform.Swashbuckle.Swagger.Module</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Develop|AnyCPU'">
+		<OutputPath>..\bin\$(Configuration)\Platform\MonicaPlatform.Swashbuckle.Swagger.Module</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+		<OutputPath>..\bin\$(Configuration)\Platform\MonicaPlatform.Swashbuckle.Swagger.Module</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+		<OutputPath>..\bin\$(Configuration)\Platform\MonicaPlatform.Swashbuckle.Swagger.Module</OutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Develop|x64'">
+		<OutputPath>..\bin\$(Configuration)\Platform\MonicaPlatform.Swashbuckle.Swagger.Module</OutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<FrameworkReference Include="Microsoft.AspNetCore.App" />
+		<PackageReference Include="Microsoft.VisualStudio.SlowCheetah" Version="3.2.26">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Monica.Core" Version="1.0.110" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="5.5.1" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<Content Remove="MonicaPlatform.Swashbuckle.Swagger.Module.dll.config" />
+		<Content Remove="MonicaPlatform.Swashbuckle.Swagger.Module.dll.Develop.config" />
+		<Content Remove="MonicaPlatform.Swashbuckle.Swagger.Module.dll.Debug.config" />
+		<Content Remove="MonicaPlatform.Swashbuckle.Swagger.Module.dll.Release.config" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<None Include="MonicaPlatform.Swashbuckle.Swagger.Module.dll.config">
+			<TransformOnBuild>true</TransformOnBuild>
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+
+		<None Include="MonicaPlatform.Swashbuckle.Swagger.Module.dll.Develop.config">
+			<IsTransformFile>true</IsTransformFile>
+			<DependentUpon>MonicaPlatform.Swashbuckle.Swagger.Module.dll.config</DependentUpon>
+		</None>
+
+		<None Include="MonicaPlatform.Swashbuckle.Swagger.Module.dll.Debug.config">
+			<IsTransformFile>true</IsTransformFile>
+			<DependentUpon>MonicaPlatform.Swashbuckle.Swagger.Module.dll.config</DependentUpon>
+		</None>
+
+		<None Include="MonicaPlatform.Swashbuckle.Swagger.Module.dll.Release.config">
+			<IsTransformFile>true</IsTransformFile>
+			<DependentUpon>MonicaPlatform.Swashbuckle.Swagger.Module.dll.config</DependentUpon>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="ModuleDlls.xml">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Update="test\MonicaPlatform.Swashbuckle.Swagger.Module.dll.config">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,576 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Testing.Nunit\\Monica.Core.Testing.Nunit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\Monica.Core.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\Monica.Core.Abstraction.csproj",
+        "projectName": "Monica.Core.Abstraction",
+        "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\Monica.Core.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Controllers\\Monica.Core.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Controllers\\Monica.Core.Controllers.csproj",
+        "projectName": "Monica.Core.Controllers",
+        "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Controllers\\Monica.Core.Controllers.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\Monica.Core.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\Monica.Core.Abstraction.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Service\\Monica.Core.Service.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Service\\Monica.Core.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj",
+        "projectName": "Monica.Core.DbModel",
+        "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj",
+        "projectName": "Monica.Core.ModelParametrs",
+        "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Service\\Monica.Core.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Service\\Monica.Core.Service.csproj",
+        "projectName": "Monica.Core.Service",
+        "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Service\\Monica.Core.Service.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\Monica.Core.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\Monica.Core.Abstraction.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "LinqKit.Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "SqlKata.Execution": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Testing.Nunit\\Monica.Core.Testing.Nunit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Testing.Nunit\\Monica.Core.Testing.Nunit.csproj",
+        "projectName": "Monica.Core.Testing.Nunit",
+        "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Testing.Nunit\\Monica.Core.Testing.Nunit.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Testing.Nunit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\Monica.Core.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Abstraction\\Monica.Core.Abstraction.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Controllers\\Monica.Core.Controllers.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Controllers\\Monica.Core.Controllers.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.ModelParametrs\\Monica.Core.ModelParametrs.csproj"
+              },
+              "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Service\\Monica.Core.Service.csproj": {
+                "projectPath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\Monica.Core.Service\\Monica.Core.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "Microsoft.VisualStudio.SlowCheetah": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.26, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\ModuleDlls.xml
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.AuthModule.deps.json
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.AuthModule.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.AuthModule.pdb
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\obj\Develop\MonicaPlatform.AuthModule.AssemblyInfoInputs.cache
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\obj\Develop\MonicaPlatform.AuthModule.AssemblyInfo.cs
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\obj\Develop\MonicaPlatform.AuthModule.csproj.CoreCompileInputs.cache
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\obj\Develop\MonicaPlatform.AuthModule.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.AuthModule\obj\Develop\MonicaPlatform.AuthModule.pdb
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.AuthModule\ModuleDlls.xml
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.AuthModule\MonicaPlatform.AuthModule.deps.json
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.AuthModule\MonicaPlatform.AuthModule.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.AuthModule\MonicaPlatform.AuthModule.pdb

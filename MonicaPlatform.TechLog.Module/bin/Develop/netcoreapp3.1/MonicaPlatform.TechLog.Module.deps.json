@@ -1,0 +1,111 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MonicaPlatform.TechLog.Module/1.0.0": {
+        "dependencies": {
+          "Monica.Core": "1.0.102",
+          "NLog.StructuredLogging.Json": "4.0.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "MonicaPlatform.TechLog.Module.dll": {}
+        }
+      },
+      "Autofac/5.2.0": {
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      },
+      "Monica.Core/1.0.102": {
+        "dependencies": {
+          "Autofac": "5.2.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Monica.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "NLog/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.5.0.7357"
+          }
+        }
+      },
+      "NLog.StructuredLogging.Json/4.0.0": {
+        "dependencies": {
+          "NLog": "4.5.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.StructuredLogging.Json.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.273"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonicaPlatform.TechLog.Module/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V8dBH0dsv75uDzl7Sw+HkhKDPUw2eXnlMjcSVMH+tLo2s67MpTKGyDj1pDcpR+IF2u4YRs0s3/x7R88YJzIWvg==",
+      "path": "autofac/5.2.0",
+      "hashPath": "autofac.5.2.0.nupkg.sha512"
+    },
+    "Monica.Core/1.0.102": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TVbLPgKlLO1yBH+8AioONEk7VvEP2QWAEDzFb0jsBfxMYRxD5ifEpNETo3nTo0slqXvFeDMLJ1Uxj1uMIB16sA==",
+      "path": "monica.core/1.0.102",
+      "hashPath": "monica.core.1.0.102.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "NLog/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lzqhWWkcC2HplWKsT3Rv81O7WbMt0xr0ICnCGqTgiSkqbnRxL8tTDGL0WRK7+sFZnZ/GQThkQcjSymhcbz05/w==",
+      "path": "nlog/4.5.0",
+      "hashPath": "nlog.4.5.0.nupkg.sha512"
+    },
+    "NLog.StructuredLogging.Json/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E3kRh0uVD4GDevHo84rrlI640YulUT8iN3ahPaV8DrpZCt3b4DaBlq6MM3rsCgF4FiW/0gr6XhGKocjiuCVTtA==",
+      "path": "nlog.structuredlogging.json/4.0.0",
+      "hashPath": "nlog.structuredlogging.json.4.0.0.nupkg.sha512"
+    }
+  }
+}

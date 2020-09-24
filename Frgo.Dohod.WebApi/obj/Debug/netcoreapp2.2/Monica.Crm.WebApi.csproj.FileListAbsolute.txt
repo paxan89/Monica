@@ -1,0 +1,16 @@
+F:\Monica\monica.crm.api\Monica.Crm.WebApi\obj\Debug\netcoreapp2.2\Monica.Crm.WebApi.csprojAssemblyReference.cache
+F:\Monica\monica.crm.api\Monica.Crm.WebApi\obj\Debug\netcoreapp2.2\Monica.Crm.WebApi.csproj.CoreCompileInputs.cache
+F:\Monica\monica.crm.api\Monica.Crm.WebApi\obj\Debug\netcoreapp2.2\Monica.Crm.WebApi.AssemblyInfoInputs.cache
+F:\Monica\monica.crm.api\Monica.Crm.WebApi\obj\Debug\netcoreapp2.2\Monica.Crm.WebApi.AssemblyInfo.cs
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.Universal.dll.config
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\ConfigModuleDll.xml
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.WebApi.dll.config
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.WebApi.deps.json
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.WebApi.runtimeconfig.json
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.WebApi.runtimeconfig.dev.json
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.WebApi.dll
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.WebApi.pdb
+F:\Monica\monica.crm.api\Monica.Crm.WebApi\obj\Debug\netcoreapp2.2\Monica.Crm.WebApi.csproj.CopyComplete
+F:\Monica\monica.crm.api\Monica.Crm.WebApi\obj\Debug\netcoreapp2.2\Monica.Crm.WebApi.dll
+F:\Monica\monica.crm.api\Monica.Crm.WebApi\obj\Debug\netcoreapp2.2\Monica.Crm.WebApi.pdb
+F:\Monica\monica.crm.api\bin\netcoreapp2.2\Monica.Crm.WebApi.xml

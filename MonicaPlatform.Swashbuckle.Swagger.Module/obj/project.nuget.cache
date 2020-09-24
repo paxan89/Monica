@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "KtYd+XWyaGVUxLWvczU1LXgqkONVWrVhHWLo4T7oPWOuudjrRfDhHGhN71H0TecxcH0009WdojOVpwz85ORQOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12078\\OneDrive\\Документы\\Monica\\MonicaPlatform.Swashbuckle.Swagger.Module\\MonicaPlatform.Swashbuckle.Swagger.Module.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12078\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\microsoft.visualstudio.slowcheetah\\3.2.26\\microsoft.visualstudio.slowcheetah.3.2.26.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\monica.core\\1.0.110\\monica.core.1.0.110.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.1\\swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\swashbuckle.aspnetcore.newtonsoft\\5.5.1\\swashbuckle.aspnetcore.newtonsoft.5.5.1.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\12078\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModulesDll>
+  <ModuleDll name="Frgo.Dohod.WebApi" path="Frgo.Dohod.WebApi.dll" isMvc="true"/>
+</ModulesDll>
+
+

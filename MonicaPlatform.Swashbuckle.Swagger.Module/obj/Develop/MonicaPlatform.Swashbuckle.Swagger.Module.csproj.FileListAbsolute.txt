@@ -1,0 +1,17 @@
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\ModuleDlls.xml
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.Swashbuckle.Swagger.Module.dll.config
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.Swashbuckle.Swagger.Module.deps.json
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.Swashbuckle.Swagger.Module.pdb
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Develop\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfoInputs.cache
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Develop\MonicaPlatform.Swashbuckle.Swagger.Module.AssemblyInfo.cs
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Develop\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CoreCompileInputs.cache
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Develop\MonicaPlatform.Swashbuckle.Swagger.Module.csproj.CopyComplete
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Develop\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Develop\MonicaPlatform.Swashbuckle.Swagger.Module.pdb
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.Swashbuckle.Swagger.Module\ModuleDlls.xml
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.dll.config
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.deps.json
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.Swashbuckle.Swagger.Module\MonicaPlatform.Swashbuckle.Swagger.Module.pdb
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.Swashbuckle.Swagger.Module\obj\Develop\MonicaPlatform.Swashbuckle.Swagger.Module.csprojAssemblyReference.cache

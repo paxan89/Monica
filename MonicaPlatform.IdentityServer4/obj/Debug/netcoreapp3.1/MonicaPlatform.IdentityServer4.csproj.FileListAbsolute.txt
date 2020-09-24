@@ -1,0 +1,75 @@
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\ModuleDlls.xml
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.dll.config
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.deps.json
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.pdb
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Autofac.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\IdentityModel.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\IdentityModel.AspNetCore.OAuth2Introspection.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\IdentityServer4.AccessTokenValidation.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Monica.Core.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.csprojAssemblyReference.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.AssemblyInfoInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.AssemblyInfo.cs
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.csproj.CoreCompileInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.csproj.CopyComplete
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\ModuleDlls.xml
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.dll.config
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.deps.json
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\IdentityServer4.AccessTokenValidation.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Monica.Core.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.AssemblyInfoInputs.cache
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.AssemblyInfo.cs
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.csproj.CopyComplete
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.dll
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.pdb
+C:\Users\Pavel Ovchinnikov\Documents\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.csprojAssemblyReference.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\ModuleDlls.xml
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.dll.config
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.deps.json
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.pdb
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\IdentityModel.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\IdentityModel.AspNetCore.OAuth2Introspection.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\IdentityServer4.AccessTokenValidation.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Monica.Core.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.csprojAssemblyReference.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.AssemblyInfoInputs.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.AssemblyInfo.cs
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.csproj.CoreCompileInputs.cache
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.csproj.CopyComplete
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.dll
+E:\Work\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\Debug\netcoreapp3.1\MonicaPlatform.IdentityServer4.pdb

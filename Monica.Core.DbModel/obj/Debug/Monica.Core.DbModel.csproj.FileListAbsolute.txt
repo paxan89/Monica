@@ -1,0 +1,16 @@
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.DbModel.deps.json
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.DbModel.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.DbModel.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.AssemblyInfoInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.AssemblyInfo.cs
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.csproj.CoreCompileInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.pdb
+C:\Users\12078\OneDrive\Документы\Monica\bin\Debug\Monica.Core.DbModel.deps.json
+C:\Users\12078\OneDrive\Документы\Monica\bin\Debug\Monica.Core.DbModel.dll
+C:\Users\12078\OneDrive\Документы\Monica\bin\Debug\Monica.Core.DbModel.pdb
+C:\Users\12078\OneDrive\Документы\Monica\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.AssemblyInfoInputs.cache
+C:\Users\12078\OneDrive\Документы\Monica\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.AssemblyInfo.cs
+C:\Users\12078\OneDrive\Документы\Monica\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.csproj.CoreCompileInputs.cache
+C:\Users\12078\OneDrive\Документы\Monica\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.dll
+C:\Users\12078\OneDrive\Документы\Monica\Monica.Core.DbModel\obj\Debug\Monica.Core.DbModel.pdb

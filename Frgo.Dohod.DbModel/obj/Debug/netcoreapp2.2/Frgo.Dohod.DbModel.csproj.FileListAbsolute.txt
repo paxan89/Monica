@@ -1,0 +1,4 @@
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.DbModel\obj\Debug\netcoreapp2.2\Frgo.Dohod.DbModel.csprojAssemblyReference.cache
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.DbModel\obj\Debug\netcoreapp2.2\Frgo.Dohod.DbModel.csproj.CoreCompileInputs.cache
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.DbModel\obj\Debug\netcoreapp2.2\Frgo.Dohod.DbModel.AssemblyInfoInputs.cache
+F:\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.DbModel\obj\Debug\netcoreapp2.2\Frgo.Dohod.DbModel.AssemblyInfo.cs

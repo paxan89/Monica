@@ -1,0 +1,12 @@
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.IdentityServer4\ModuleDlls.xml
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.dll.config
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.deps.json
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.runtimeconfig.json
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.runtimeconfig.dev.json
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.dll
+F:\Monica\Build\Debug\x64\bin\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.pdb
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\x64\Debug\MonicaPlatform.IdentityServer4.csproj.CoreCompileInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\x64\Debug\MonicaPlatform.IdentityServer4.AssemblyInfoInputs.cache
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\x64\Debug\MonicaPlatform.IdentityServer4.AssemblyInfo.cs
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\x64\Debug\MonicaPlatform.IdentityServer4.dll
+F:\Monica\Monica.PlatformMain\MonicaPlatform.IdentityServer4\obj\x64\Debug\MonicaPlatform.IdentityServer4.pdb

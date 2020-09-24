@@ -1,0 +1,9 @@
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\x64\Debug\Monica.Core.DbModel.AssemblyInfoInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\x64\Debug\Monica.Core.DbModel.AssemblyInfo.cs
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\x64\Debug\Monica.Core.DbModel.csproj.CoreCompileInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\x64\Debug\Monica.Core.DbModel.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\x64\Debug\Monica.Core.DbModel.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.DbModel.deps.json
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.DbModel.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Monica.Core.DbModel.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\Monica.Core.DbModel\obj\x64\Debug\Monica.Core.DbModel.csprojAssemblyReference.cache

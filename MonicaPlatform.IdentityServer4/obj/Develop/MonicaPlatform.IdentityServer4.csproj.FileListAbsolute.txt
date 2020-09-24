@@ -1,0 +1,17 @@
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.IdentityServer4.dll.config
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\ModuleDlls.xml
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.IdentityServer4.deps.json
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.IdentityServer4.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.IdentityServer4.pdb
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.IdentityServer4\obj\Develop\MonicaPlatform.IdentityServer4.AssemblyInfoInputs.cache
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.IdentityServer4\obj\Develop\MonicaPlatform.IdentityServer4.AssemblyInfo.cs
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.IdentityServer4\obj\Develop\MonicaPlatform.IdentityServer4.csproj.CoreCompileInputs.cache
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.IdentityServer4\obj\Develop\MonicaPlatform.IdentityServer4.csproj.CopyComplete
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.IdentityServer4\obj\Develop\MonicaPlatform.IdentityServer4.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.IdentityServer4\obj\Develop\MonicaPlatform.IdentityServer4.pdb
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.dll.config
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.IdentityServer4\ModuleDlls.xml
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.deps.json
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.dll
+e:\Work\Monica\Monica.PlatformMain.Reader\bin\Develop\Platform\MonicaPlatform.IdentityServer4\MonicaPlatform.IdentityServer4.pdb
+e:\Work\Monica\Monica.PlatformMain.Reader\MonicaPlatform.IdentityServer4\obj\Develop\MonicaPlatform.IdentityServer4.csprojAssemblyReference.cache

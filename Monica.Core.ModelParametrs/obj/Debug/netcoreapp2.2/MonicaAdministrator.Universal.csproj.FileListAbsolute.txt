@@ -1,0 +1,11 @@
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.Universal.deps.json
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.Universal.runtimeconfig.json
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.Universal.runtimeconfig.dev.json
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.Universal.dll
+F:\Monica\monica.administrator.module\MonicaAdministrator.Universal\obj\Debug\netcoreapp2.2\MonicaAdministrator.Universal.csprojAssemblyReference.cache
+F:\Monica\monica.administrator.module\MonicaAdministrator.Universal\obj\Debug\netcoreapp2.2\MonicaAdministrator.Universal.csproj.CoreCompileInputs.cache
+F:\Monica\monica.administrator.module\MonicaAdministrator.Universal\obj\Debug\netcoreapp2.2\MonicaAdministrator.Universal.AssemblyInfoInputs.cache
+F:\Monica\monica.administrator.module\MonicaAdministrator.Universal\obj\Debug\netcoreapp2.2\MonicaAdministrator.Universal.AssemblyInfo.cs
+F:\Monica\monica.administrator.module\bin\netcoreapp2.2\MonicaAdministrator.Universal.pdb
+F:\Monica\monica.administrator.module\MonicaAdministrator.Universal\obj\Debug\netcoreapp2.2\MonicaAdministrator.Universal.dll
+F:\Monica\monica.administrator.module\MonicaAdministrator.Universal\obj\Debug\netcoreapp2.2\MonicaAdministrator.Universal.pdb

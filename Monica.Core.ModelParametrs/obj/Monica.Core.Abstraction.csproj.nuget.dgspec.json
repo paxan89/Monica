@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Crm.Abstraction\\Monica.Core.Abstraction.csproj": {}
+  },
+  "projects": {
+    "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj",
+        "projectName": "Monica.Core.DbModel",
+        "projectPath": "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Core.DbModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://185.17.123.207:8111/httpAuth/app/nuget/feed/_Root/MonicaDevelop/v2": {},
+          "http://baget.zeus.pmpractice.ru/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "IdentityServer4.EntityFramework.Storage": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.108, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Crm.Abstraction\\Monica.Core.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Crm.Abstraction\\Monica.Core.Abstraction.csproj",
+        "projectName": "Monica.Core.Abstraction",
+        "projectPath": "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Crm.Abstraction\\Monica.Core.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\12078\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Crm.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://185.17.123.207:8111/httpAuth/app/nuget/feed/_Root/MonicaDevelop/v2": {},
+          "http://baget.zeus.pmpractice.ru/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj": {
+                "projectPath": "E:\\Work\\Rassvet\\Frgo.Dohod.Api\\Monica.Core.DbModel\\Monica.Core.DbModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "IdentityServer4.EntityFramework.Storage": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Monica.Core": {
+              "target": "Package",
+              "version": "[1.0.108, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

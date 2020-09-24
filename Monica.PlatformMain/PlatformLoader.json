@@ -1,0 +1,9 @@
+﻿{
+  "PlatformLoader":
+  {
+    "Loaders": [
+      "..\\Platform\\Platform.IdentityServer4Cookies"
+    ] 
+  }
+
+}

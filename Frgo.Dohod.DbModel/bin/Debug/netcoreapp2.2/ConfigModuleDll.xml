@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModulesDll>
+  <ModuleDll name="Monica.CrmDbModel" path="Monica.CrmDbModel.dll" isMvc="false"/>
+  <ModuleDll name="IdentityServer4.EntityFramework" path="IdentityServer4.EntityFramework.dll" isMvc="false"/>
+  <ModuleDll name="IdentityServer4.EntityFramework.Storage" path="IdentityServer4.EntityFramework.Storage.dll" isMvc="false"/>
+  <ModuleDll name="IdentityServer4.Storage" path="IdentityServer4.Storage.dll" isMvc="false"/>
+  <ModuleDll name="Microsoft.EntityFrameworkCore.Abstractions" path="Microsoft.EntityFrameworkCore.Abstractions.dll" isMvc="false"/>
+  <ModuleDll name="Microsoft.EntityFrameworkCore.Design" path="Microsoft.EntityFrameworkCore.Design.dll" isMvc="false"/>
+  <ModuleDll name="Microsoft.EntityFrameworkCore" path="Microsoft.EntityFrameworkCore.dll" isMvc="false"/>
+  <ModuleDll name="Microsoft.EntityFrameworkCore.Relational" path="Microsoft.EntityFrameworkCore.Relational.dll" isMvc="false"/>
+  <ModuleDll name="MySqlConnector" path="MySqlConnector.dll" isMvc="false"/>
+  <ModuleDll name="Pomelo.EntityFrameworkCore.MySql" path="Pomelo.EntityFrameworkCore.MySql.dll" isMvc="false"/>
+  <ModuleDll name="Pomelo.JsonObject" path="Pomelo.JsonObject.dll" isMvc="false"/>
+  <ModuleDll name="Remotion.Linq" path="Remotion.Linq.dll" isMvc="false"/>
+  <ModuleDll name="AutoMapper" path="AutoMapper.dll" isMvc="false"/>
+  <ModuleDll name="LinqKit.Microsoft.EntityFrameworkCore.dll" path="LinqKit.Microsoft.EntityFrameworkCore.dll" isMvc="false"/>
+
+</ModulesDll>

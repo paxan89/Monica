@@ -1,0 +1,17 @@
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Frgo\Dohod\ConfigModuleDll.xml
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Frgo\Dohod\Frgo.Dohod.WebApi.dll.config
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Frgo\Dohod\Frgo.Dohod.WebApi.deps.json
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Frgo\Dohod\Frgo.Dohod.WebApi.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\Frgo\Dohod\Frgo.Dohod.WebApi.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\FrgoDohod\ConfigModuleDll.xml
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\FrgoDohod\Frgo.Dohod.WebApi.dll.config
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\FrgoDohod\Frgo.Dohod.WebApi.deps.json
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\FrgoDohod\Frgo.Dohod.WebApi.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\bin\Debug\FrgoDohod\Frgo.Dohod.WebApi.pdb
+E:\Work\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\x64\Debug\Frgo.Dohod.WebApi.csprojAssemblyReference.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\x64\Debug\Frgo.Dohod.WebApi.AssemblyInfoInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\x64\Debug\Frgo.Dohod.WebApi.AssemblyInfo.cs
+E:\Work\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\x64\Debug\Frgo.Dohod.WebApi.csproj.CoreCompileInputs.cache
+E:\Work\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\x64\Debug\Frgo.Dohod.WebApi.csproj.CopyComplete
+E:\Work\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\x64\Debug\Frgo.Dohod.WebApi.dll
+E:\Work\Rassvet\Frgo.Dohod.Api\Frgo.Dohod.WebApi\obj\x64\Debug\Frgo.Dohod.WebApi.pdb

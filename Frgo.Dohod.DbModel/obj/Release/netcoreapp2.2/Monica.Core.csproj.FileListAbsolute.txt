@@ -1,0 +1,11 @@
+F:\Monica\monica.core\Monica.Core\Monica.Core\bin\Release\netcoreapp2.2\Monica.Core.deps.json
+F:\Monica\monica.core\Monica.Core\Monica.Core\bin\Release\netcoreapp2.2\Monica.Core.runtimeconfig.json
+F:\Monica\monica.core\Monica.Core\Monica.Core\bin\Release\netcoreapp2.2\Monica.Core.runtimeconfig.dev.json
+F:\Monica\monica.core\Monica.Core\Monica.Core\bin\Release\netcoreapp2.2\Monica.Core.dll
+F:\Monica\monica.core\Monica.Core\Monica.Core\bin\Release\netcoreapp2.2\Monica.Core.pdb
+F:\Monica\monica.core\Monica.Core\Monica.Core\obj\Release\netcoreapp2.2\Monica.Core.csprojAssemblyReference.cache
+F:\Monica\monica.core\Monica.Core\Monica.Core\obj\Release\netcoreapp2.2\Monica.Core.csproj.CoreCompileInputs.cache
+F:\Monica\monica.core\Monica.Core\Monica.Core\obj\Release\netcoreapp2.2\Monica.Core.AssemblyInfoInputs.cache
+F:\Monica\monica.core\Monica.Core\Monica.Core\obj\Release\netcoreapp2.2\Monica.Core.AssemblyInfo.cs
+F:\Monica\monica.core\Monica.Core\Monica.Core\obj\Release\netcoreapp2.2\Monica.Core.dll
+F:\Monica\monica.core\Monica.Core\Monica.Core\obj\Release\netcoreapp2.2\Monica.Core.pdb
